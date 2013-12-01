@@ -1,34 +1,27 @@
 # General Jekyll Config
 pygments: true
-url: http://example.com
+url: http://phndiaye.github.io
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
 # Theme customization - please change from the defaults!
 theme:
   # Color for top bar, links, etc
-  highlight_color: '#3498db'
+  highlight_color: '#34495e'
 
   # Profile links on the left sidebar, leave blank to ignore
   social:
-    github: swanson
-    #bitbucket: philipj
-    hacker_news: swanson
-    #stackexchange: 348619
-    #stackoverflow: 348619
-    twitter: _swanson
-    #facebook: zuck
-    #tumblr: animalygifs
-    #linkedin: philipjagielski
-    #gplus: 110552447039675960964
+    github: phndiaye
+    stackoverflow: 1570927
+    twitter: phndiaye
 
   # "Hi, I'm _______"
-  name: Matt Swanson
-  email: test@example.com
+  name: Philippe Ndiaye
+  email: me@iamphinson.com
   tagline: "weak opinions, strongly held"
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key: UA-xxxx-x
+  google_analytics_key: UA-39753527-1
 
   # Toggle "Postings are my own" disclaimer in footer
   show_disclaimer: true
