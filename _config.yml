@@ -3,6 +3,7 @@ pygments: true
 url: http://phndiaye.github.io
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
+permalink: /:title.html
 
 # Theme customization - please change from the defaults!
 theme:
