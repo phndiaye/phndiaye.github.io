@@ -1,0 +1,29 @@
+body {
+  background-color: #fffef8;
+  overflow-x: hidden;
+}
+
+nav {
+  background-color: #34495e;
+  padding: 3em;
+  margin-top: 1em;
+}
+
+  nav > ul li {
+    display: inline;
+    list-style: none;
+    padding: 1em;
+    margin-left: 3em;
+    color: #fffef8;
+  }
+  
+    nav > ul li a, nav > ul li a:hover {
+      color: #fffef8;
+      text-decoration: none;
+      text-transform: uppercase;
+    }
+
+article {
+  background-color: red;
+  margin-top: 5em;
+}
