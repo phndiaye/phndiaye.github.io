@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An intro to this new blog&#58; What have changed ?
-comments: true
+comments: false
 ---
 
 Almost a year, i tried to get myself involved in blogging community. It
