@@ -8,7 +8,7 @@ Extracted lovingly from [http://mdswanson.com][mds] for your enjoyment!
 
 * Responsive, based on [Skeleton][skeleton]
 * [Font Awesome][font-awesome] for icons
-* Open Sans from [Google web fonts][gfonts]
+* Belleza from [Google web fonts][gfonts]
 * Built-in Atom RSS feed
 
 ## Action Shots
