@@ -46,8 +46,8 @@ they stop breaking the API at each release.
 
     **Chromium** is the base of the Google Chrome web browser. It's open source and
     heavily improved by the community. Being the codebase of Chrome, it's not a
-    lot different of it. The missing parts are the PDF reader (Adobe Reader),
-    and the NSA backdoors. It supports Chrome Extensions.
+    lot different of it. The missing parts are the PDF reader (Adobe Reader) and some 
+    other stuffs ... It supports Chrome Extensions.
 
 * Transmission
 
