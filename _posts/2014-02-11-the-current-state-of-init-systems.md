@@ -124,3 +124,7 @@ its concurrent are not even technical. And i will finish on these:
 
 * It has a growing community; which is to me one of the most important arguments
   when picking a solution.
+
+Some comments has been added via reddit, here is the thread: [http://www.reddit.
+com/r/linux/comments/1xtg4j/the_current_state_of_init_systems/](http://www.
+reddit.com/r/linux/comments/1xtg4j/the_current_state_of_init_systems/)
