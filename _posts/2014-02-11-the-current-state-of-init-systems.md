@@ -101,9 +101,9 @@ Since it announcement, systemd has been widely adopted. Practically all the
 major Linux distribution now enable it by default as there init system
 (Fedora, ArchLinux, RHEL 7 => CentOS, OpenSuse...) and it will be [choosen for
 the next Debian release (Jessie)](https://lists.debian.org/debian-ctte/2014/02/
-msg00402.html). Still no Ubuntu, but given that it is based on Debian, maybe
-they will enable it by default (for the moment, it is just possible to install
-it as a replacement, by hands).
+msg00402.html). After Debian decided to use systemd, Mark Shuttleworth announced
+on [his blog](http://www.markshuttleworth.com/archives/1316) that this would be
+also an decision for Ubuntu as a part of the Debian family.
 
 But why does it succeed? IMHO, one key of its success is the set of features it
 comes with. Instead of being a replacement for just Sysv init, it also comes
