@@ -1,5 +1,5 @@
 # General Jekyll Config
-highlighter: true
+highlighter: pygments
 url: http://phndiaye.github.io
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
